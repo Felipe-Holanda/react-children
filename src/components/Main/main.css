@@ -1,0 +1,9 @@
+main{
+    width: 60%;
+    padding: 2em;
+    margin: 0 auto;
+    margin-top: 3em;
+    background-color: white;
+    border-radius: .5em;
+    box-shadow: 0 0 10px rgba(0,0,0,0.2);
+}
